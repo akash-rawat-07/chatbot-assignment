@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from '../../components/Navbar'
+import InitialChatbotView from '../../container/Chatbot/InitialChatbotView'
 
 function ChatbotPage() {
   return (
@@ -8,7 +9,8 @@ function ChatbotPage() {
             <Navbar />
         </div>
 
-        <div className="h-[calc(100%-80px)] bg-[#DEE2E6]">
+        <div className="h-[calc(100%-70px)] bg-[#DEE2E6]">
+            <InitialChatbotView />
             ChatbotPage
         </div>
     </div>
