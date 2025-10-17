@@ -91,4 +91,4 @@ nvm install 22.13.0
 
 The build folder will contain the optimized production files ready for deployment.
 
-**Made with ❤️ by Valiance Solutions Frontend Developers**
+**Made with ❤️ by Frontend Developer**
