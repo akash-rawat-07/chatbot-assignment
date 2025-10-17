@@ -13,19 +13,18 @@ This is a React's Chatbot Assignment
 ## 📋 Prerequisites
 Before running this project, ensure you have the following installed:
 - **Node.js** v22.13.0 (LTS) - [Download here](https://nodejs.org/)
-- **Yarn** package manager - [Installation guide](https://yarnpkg.com/getting-started/install)
 
 ## 🚀 Installation
 
 1. **Clone the repository**
    ```bash
    git clone <your-repository-url>
-   cd iocl-fe
+   cd chatbot-assignment
    ```
 
 2. **Install dependencies**
    ```bash
-   yarn install
+   npm install
    ```
 
 3. **Set up environment variables** (if applicable)
@@ -36,7 +35,7 @@ Before running this project, ensure you have the following installed:
 
 4. **Start the development server**
    ```bash
-   yarn start
+   npm run dev
    ```
 
 The application will open in your browser at `http://localhost:3000`
@@ -61,8 +60,8 @@ src/
 
 | Command | Description |
 |---------|-------------|
-| `yarn start` | Runs the app in development mode |
-| `yarn build` | Builds the app for production |
+| `npm run dev` | Runs the app in development mode |
+| `npm run build` | Builds the app for production |
 
 
 ## 🐛 Troubleshooting
@@ -81,7 +80,7 @@ nvm install 22.13.0
 
 1. **Create production build**
    ```bash
-   yarn build
+   npm run build
    ```
 
 2. **Serve production build locally** (optional)
