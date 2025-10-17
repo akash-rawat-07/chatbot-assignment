@@ -1,7 +1,7 @@
 # Tender Evaluation Platform
 
 ## 📋 Description
-This is a comprehensive tender evaluation platform designed to streamline the assessment process for tenders and bidders. Users can input tender details and bidder information, after which the platform systematically processes the data. It then generates detailed Excel reports for each bidder, including a comprehensive bidder comparison sheet. This enables users to analyze and compare bids effectively, ensuring a transparent and data-driven evaluation process.
+This is a React's Chatbot Assignment
 
 
 ## 🛠 Technology Stack
